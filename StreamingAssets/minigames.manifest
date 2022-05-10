@@ -1,0 +1,181 @@
+ManifestFileVersion: 0
+CRC: 494734575
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1214526e308a9a0ca099f9645848119
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8239d281e89af37c60c90bb27f4a09b5
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Audios/G02IN_VM02/AudioR3.mp3
+- Assets/Resources/Minigames/Textures/G00IN_SA03/Preview2.png
+- Assets/Resources/Audios/G10IN_VM02/Op1R2.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioSimio.mp3
+- Assets/Resources/Minigames/Textures/G02IN_SA03/Elementos1.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R1_2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op2R1.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R4Re3.mp3
+- Assets/Resources/Audios/ToolsAudios/Boton.wav
+- Assets/Resources/Minigames/Textures/G03IN_SA01/Recursos5.png
+- Assets/Resources/Minigames/Tutorial/Nuevo documento de texto.txt
+- Assets/Resources/Audios/G02IN_VM02/AudioRana.mp3
+- Assets/Resources/Minigames/TexturesLSC/LSC1@Texture.png
+- Assets/Resources/Minigames/Textures/G03IN_SA01/Preview.png
+- Assets/Resources/Audios/ToolsAudios/Drop.wav
+- Assets/Resources/Audios/G02IN_VM02/AudioMonoAullador.mp3
+- Assets/Resources/Audios/ToolsAudios/sonidoAvatarCasa.mp3
+- Assets/Resources/Minigames/Textures/G04CS_ST01/Elementos.png
+- Assets/Resources/Audios/G02IN_VM02/AudioMariposaAzul.mp3
+- Assets/Resources/Audios/G01IN_VM02/01IN_En4.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op1R4.mp3
+- Assets/Resources/Audios/ToolsAudios/sonidoBienHecho.mp3
+- Assets/Resources/Minigames/Textures/G08IN_SA01/G08IN_Texture.png
+- Assets/Resources/Minigames/Textures/G03LG_SC02/Preview.png
+- Assets/Resources/Minigames/Textures/G00LG_SC01-02/Preview.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R2Re1.mp3
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 4.png
+- Assets/Resources/Audios/G01IN_VM02/01IN_En1.mp3
+- Assets/Resources/Audios/G01IN_VM02/01IN_En2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Conversacion6.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R3Re1.mp3
+- Assets/Resources/Minigames/Textures/G03IN_SA01/Recursos3.png
+- Assets/Resources/Audios/G02IN_VM02/AudioOsoPerezoso.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R2En.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R3_5.mp3
+- Assets/Resources/Minigames/Textures/G05MT_SM01/Elementos3.png
+- Assets/Resources/Minigames/Textures/G04IN_SA01/Preview.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R4_4.mp3
+- Assets/Resources/Audios/ToolsAudios/sonidoMapa.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioZarigueya.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R4_3.mp3
+- Assets/Resources/Minigames/Textures/G02IN_SA03/Elementos2.png
+- Assets/Resources/Minigames/Textures/G01LG_SC03/Preview.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R5Re1.mp3
+- Assets/Resources/Audios/G10IN_VM02/Conversacion4.mp3
+- Assets/Resources/Minigames/Textures/G10IN_SA01/text.png
+- Assets/Resources/Minigames/TexturesLSC/LSC3@Texture.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R5_3.mp3
+- Assets/Resources/Minigames/Textures/G04IN_SA02/Preview.png
+- Assets/Resources/Minigames/Textures/G00IN_SA01/Preview-2.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R5Re3.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioMariposaNaranja.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op3R3.mp3
+- Assets/Resources/Minigames/Textures/G03MT_SM01/Preview.png
+- Assets/Resources/Minigames/Textures/G10IN_SA01/Preview.png
+- Assets/Resources/Minigames/Textures/G10IN_SA01/Preview1.png
+- Assets/Resources/Minigames/Textures/G01IN_SA03/G01IN_SA03@Texture_0.png
+- Assets/Resources/Audios/G02IN_VM02/Audio1R5.mp3
+- Assets/Resources/Audios/G10IN_VM02/Conversacion3.mp3
+- Assets/Resources/Audios/G01IN_VM02/01IN_En3.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op3R4.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioR4.mp3
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 5.png
+- Assets/Resources/Audios/ToolsAudios/sonidoIntentaloDeNuevo.mp3
+- Assets/Resources/Audios/ToolsAudios/correctSoundFx.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R5En.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op2R5.mp3
+- Assets/Resources/Audios/G02IN_VM02/Audio2R5.mp3
+- Assets/Resources/Minigames/Textures/G03LG_SC01/Preview.png
+- Assets/Resources/Minigames/Textures/G08CS_ST01/Preview.png
+- Assets/Resources/Audios/G02IN_VM02/AudioArana.mp3
+- Assets/Resources/Minigames/Textures/G03IN_SA01/Recursos4.png
+- Assets/Resources/Minigames/Textures/G11LG_SC01/Preview.png
+- Assets/Resources/Audios/G02IN_VM02/AudioR1.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R5_4.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioSerpiente.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op3R6.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R4_1.mp3
+- Assets/Resources/Minigames/Textures/G00NT_SV01/Preview.png
+- Assets/Resources/Minigames/Textures/G04IN_SA01/Mesa de trabajo 2.png
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 6.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R1Re1.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R2_3.mp3
+- Assets/Resources/Audios/ToolsAudios/CorrectNotification.wav
+- Assets/Resources/Audios/ToolsAudios/sonidoLenguaSenas.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R2Re2.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R5_1.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op1R5.mp3
+- Assets/Resources/Minigames/Textures/G02MT_SM01/G02MT_SM01@Texture_1.png
+- Assets/Resources/Minigames/Textures/G04IN_SA02/Assets.png
+- Assets/Resources/Audios/G10IN_VM02/Op2R6.mp3
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 7.png
+- Assets/Resources/Audios/ToolsAudios/errorSoundFx.wav
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Preview.png
+- Assets/Resources/Audios/G10IN_VM02/Op1R3.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op2R3.mp3
+- Assets/Resources/Audios/G01IN_VM02/01IN_En5.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R5_5.mp3
+- Assets/Resources/Minigames/Textures/G00IN_SA03/Preview.png
+- Assets/Resources/Audios/ToolsAudios/sonidoInteligenciasM.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R3_2.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R1_3.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op3R5.mp3
+- Assets/Resources/Minigames/Textures/G00IN_SA01/Preview-10.png
+- Assets/Resources/Minigames/Textures/G03LG_SC03/Mesa de trabajo 7 copia.png
+- Assets/Resources/Minigames/Textures/G02IN_SA03/Fondo.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R4Re2.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R1_4.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R2_4.mp3
+- Assets/Resources/Minigames/Minigame@SquareWhite.png
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos1.png
+- Assets/Resources/Audios/G02IN_VM02/AudioCoral.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op1R1.mp3
+- Assets/Resources/Minigames/Textures/G02IN_SA03/Preview1.png
+- Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 2.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R5_2.mp3
+- Assets/Resources/Minigames/Textures/G05MT_SM01/Elementos2.png
+- Assets/Resources/Minigames/Textures/G00IN_SA02/Mesa de trabajo 5.png
+- Assets/Resources/Audios/G02IN_VM02/AudioPavo.mp3
+- Assets/Resources/Audios/G02IN_VM02/AudioArmadillo.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R4Re1.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op1R6.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R1_1.mp3
+- Assets/Resources/Minigames/Textures/G05MT_SM01/Elementos1.png
+- Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 5.png
+- Assets/Resources/Minigames/Textures/G02MT_SM02/Preview.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R5Re2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op2R4.mp3
+- Assets/Resources/Minigames/Textures/G10IN_SA01/Elementos2.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R2_1.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R6RE2.mp3
+- Assets/Resources/Minigames/Textures/G02IN_SA03/Preview2.png
+- Assets/Resources/Audios/G02IN_VM02/AudioR2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Conversacion2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Conversacion5.mp3
+- Assets/Resources/Audios/ToolsAudios/Catch.wav
+- Assets/Resources/Audios/G10IN_VM02/Conversacion1.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R3_3.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R6RE1.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R2_2.mp3
+- Assets/Resources/Audios/G10IN_VM02/AudioNoticia.mp3
+- Assets/Resources/Minigames/Textures/G09IN_SA01/Preview-1.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R3_4.mp3
+- Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 4.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R3Re2.mp3
+- Assets/Resources/Minigames/Minigame@Square.png
+- Assets/Resources/Minigames/Textures/G04LG_SC01/G04LG_SC01@Texture_1.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R3_1.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R4En.mp3
+- Assets/Resources/Audios/G04IN_VM02/Audio_R4_5.mp3
+- Assets/Resources/Minigames/Textures/G06CS_ST02/Preview.png
+- Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos.png
+- Assets/Resources/Audios/G09IN_VM02/09IN_R3En.mp3
+- Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 3.png
+- Assets/Resources/Audios/G04IN_VM02/Audio_R4_2.mp3
+- Assets/Resources/Audios/G09IN_VM02/09IN_R3Re3.mp3
+- Assets/Resources/Minigames/Textures/G05CS_ST01/Preview.png
+- Assets/Resources/Audios/G10IN_VM02/Op3R2.mp3
+- Assets/Resources/Audios/G10IN_VM02/Op2R2.mp3
+Dependencies: []

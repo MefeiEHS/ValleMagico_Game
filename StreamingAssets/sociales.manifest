@@ -1,0 +1,135 @@
+ManifestFileVersion: 0
+CRC: 1278907251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 844253a3f2474359bc0043f2d356603c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02_25.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/ronda-0-1.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CSVM_02preview.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/02CS_VM02_background.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/11CS_VM02_2.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02_26.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02contexto.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture4.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSMV02 -08.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/TEXTURE_02.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSVM_02 contexto.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/textura 2.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/01CS_VM02_preview.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 37.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/02CS_VM02_preview.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/Mesa de trabajo 16.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 31.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 16.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G10CS_VM02@Texture11.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 32_1.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/Mesa de trabajo 28.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/08CSVM_02 background.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/textura 1.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture2.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/04CS_VM02 background.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02background.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/08CSVM_02 contexto.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/G01CS_VM02_introduccion.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture5.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/Contexto 00CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/11CSMV_02-06.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/06CSVM_02_A.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture7.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/Preview 00CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSMV02-07.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/Contexto 11CS_VM02.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 7 copia.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/06CSVM_02_B.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 39.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 35.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 36.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Preview.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture9.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/Tooltip contexto corregido.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 28.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/01CS_VM02_contexto.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/06CSVM_02_contexto.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture11.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture1.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/Round_0F.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture3.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSVM_02 background.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/G01CS_VM02_0.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture8.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/ronda_cero.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CS_Ronda0.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 34.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/11CS_VM02_3.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture4.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Background.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/G01CS_VM02_1.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM03TN.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/Preview 10CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture10.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 32.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CS_Text1.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/06CSVM_02_background.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 38.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/Round cero F.png
+- Assets/Resources/Minigames/Textures2/G00CS_VM02/Background 00CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CSVM_02Contexto.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSMV02-06.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 30.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture1.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/ronda-0-1.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/06CSVM_02_preview.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 33.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/Round_0F.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/02CSVM_02-07.png
+- Assets/Resources/Minigames/Textures2/G09CS_VM02/09CSVM_02 preview.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CSVM_02Background.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/11CS_VM02_1.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/ronda_cero.PNG
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Contexto.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/Ronda0 04CS_VM.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Contexto.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/textura con fondos.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/01CS_VM02_background.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02preview.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/textura 1.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/Botones11CS.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture6.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/Preview 11CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G01CS_VM02/01CS_Ronda0.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture6.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02_19.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/02CS_VM02_contexto.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CS_Text2.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_VM02_7.png
+- Assets/Resources/Minigames/Textures2/G02CS_VM02/02CSVM_02-06.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture2.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/04CS_VM02 contexto.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Ronda 0-08CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture5.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 29.png
+- Assets/Resources/Minigames/Textures2/G03CS_VM02/03CS_Ronda0.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Background.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture7.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/G10CS_VM02@Texture8.png
+- Assets/Resources/Minigames/Textures2/04CS_VM02/textura 2.png
+- Assets/Resources/Minigames/Textures2/G06CS_VM02/ronda_cero.PNG
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/G05CS_VM02@Texture3.png
+- Assets/Resources/Minigames/Textures2/G05CS_VM02/05CSVM_02 preview.png
+- Assets/Resources/Minigames/Textures2/08CS_VM02/Mesa de trabajo 5 copia.png
+- Assets/Resources/Minigames/Textures2/G11CSVM_02/Background 11CS_VM02.png
+- Assets/Resources/Minigames/Textures2/G07CS_VM02/07CS_Text3.png
+- Assets/Resources/Minigames/Textures2/G10CS_VM02/ronda_cero.png
+Dependencies: []

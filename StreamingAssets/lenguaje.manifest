@@ -1,0 +1,133 @@
+ManifestFileVersion: 0
+CRC: 109365927
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e55d146baef2d404edc7781556b9233e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Minigames/Textures2/04LG_VM02/TexturaActualizada.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/Background 07LG_VM02.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/Contexto 05LG_VM03.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01 TEXTURA-07.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/10LG_VM02_A_2.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/O5LG_Text2.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Ronda0 04LG_VM03.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_NuevaText.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_Vocabulario.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/02LG_VM04_B.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_05.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/03LG_VM03 preview.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TEXTURA 1.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture5.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture7.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_VM03T.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Background.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Preview.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/Background_00LG_VM04.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03Contexto.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Background 02CN_XX02.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Ronda0-06LG.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_correc.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 28.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 30.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 16.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/10LG_VM02 background.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/G11LG_Textnueva.png
+- Assets/Resources/Minigames/Textures2/G09LG_VM02/09LG background.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01-08.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03Texture1.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 21.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/ronda_cero.PNG
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture4.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/ronda0-03LG.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/00LG_VM04_A.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01-07.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture3.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/03LG_VM03 contexto.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TEXTURA 3.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 7 copia 2.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 16.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TEXTURA 4.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM02 Preview.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03Ronda0.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 7 copia 2.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 7 copia.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/11LG_Bombillo.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/Contexto11LG_VM02.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/01LGTEXTURA_1.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_CONTEXTO.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/Round_0F.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture6.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01-07 F.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 29.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/01LGTEXTURA_2.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_Nuevat.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/Background11LG_VM02.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/Mesa de trabajo 17.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/01LG_VM04 preview.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 20.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/ronda-0-1.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/Contexto 07LG_VM02.png
+- Assets/Resources/Minigames/Textures2/G09LG_VM02/09LG_VM02 contexto.png
+- Assets/Resources/Minigames/Textures2/G09LG_VM02/09LG_VM02-06.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_NuevosTT.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/11LG_Ronda0.png
+- Assets/Resources/Minigames/Textures2/G09LG_VM02/09LG_VM02 preview.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Contexto.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Contexto 06LG_VM03.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/03LG_VM03 background.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/02LG_VM04_preview.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01-07_V2.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TEXTURA 2.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/T11LG_VM028.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05lLG_VM03Ronda0.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/Background 05LG_VM03.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/11lgTTn.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_03.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/10LG_VM02 contexto.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 19.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Mesa de trabajo 22.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/T11LG_VM026.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 31.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_TextNueva.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03Texture2.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Ronda0 04LG_VM03-2.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/TOOLTIP_-5.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Contexto 02CN_XX02.png
+- Assets/Resources/Minigames/Textures2/G05LG_VM03/05LG_Bombillo.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/ronda-0-1.png
+- Assets/Resources/Minigames/Textures2/06LG_VM03/Background 06LG_VM03.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/02LG_VM04_background.png
+- Assets/Resources/Minigames/Textures2/04LG_VM02/Mesa de trabajo 7 copia.png
+- Assets/Resources/Minigames/Textures2/G11LG_VM02/11LG_nueva.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/ronda-0-1.png
+- Assets/Resources/Minigames/Textures2/G09LG_VM02/Ronda cero F.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03T6.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture1.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_02.png
+- Assets/Resources/Minigames/Textures2/G08LG_VM03/08LG_VM03Background.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/10LG_VM02 preview.png
+- Assets/Resources/Minigames/Textures2/G10LG_VM02/10LG_VM02_A.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/02LG_VM04_contexto.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/02LG_VM04_A.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/ronda_cero.PNG
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/Contexto_00LG_VM04.png
+- Assets/Resources/Minigames/Textures2/G02LG_VM04/ronda-0-2.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_VM01 PREVIEW 0.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_04.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/00LG_VM04_B.png
+- Assets/Resources/Minigames/Textures2/G07LG_VM01/07LG_R0 F.png
+- Assets/Resources/Minigames/Textures2/G00LG_VM04/Preview_00LG_VM04.png
+- Assets/Resources/Minigames/Textures2/03LG_VM03/TOOLTIPS_01.png
+- Assets/Resources/Minigames/Textures2/G01LG_VM04/G01LG_VM04@Texture2.png
+Dependencies: []

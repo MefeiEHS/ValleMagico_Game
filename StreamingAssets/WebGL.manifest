@@ -1,46 +1,61 @@
 ManifestFileVersion: 0
-CRC: 3968748241
+CRC: 3259263661
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: event.asset
+      Name: kiwe
       Dependencies: {}
     Info_1:
-      Name: avatar.asset
+      Name: itxi
       Dependencies: {}
     Info_2:
-      Name: player.asset
+      Name: yu
       Dependencies: {}
     Info_3:
-      Name: intelligences.asset
+      Name: shirva
       Dependencies: {}
     Info_4:
-      Name: minigames.asset
+      Name: isla
       Dependencies: {}
     Info_5:
-      Name: shirva.asset
+      Name: ronda0
       Dependencies: {}
     Info_6:
-      Name: yu.asset
+      Name: unaha
       Dependencies: {}
     Info_7:
-      Name: unaha.asset
+      Name: wexa
       Dependencies: {}
     Info_8:
-      Name: itxi.asset
+      Name: evaluacion
       Dependencies: {}
     Info_9:
-      Name: kiwe.asset
+      Name: event
       Dependencies: {}
     Info_10:
-      Name: wexa.asset
+      Name: minigames
       Dependencies: {}
     Info_11:
-      Name: ronda0.asset
+      Name: avatar
       Dependencies: {}
     Info_12:
-      Name: evaluacion.asset
+      Name: player
       Dependencies: {}
     Info_13:
-      Name: isla.asset
+      Name: intelligences
+      Dependencies: {}
+    Info_14:
+      Name: ingles
+      Dependencies: {}
+    Info_15:
+      Name: sociales
+      Dependencies: {}
+    Info_16:
+      Name: matematicas
+      Dependencies: {}
+    Info_17:
+      Name: naturales
+      Dependencies: {}
+    Info_18:
+      Name: lenguaje
       Dependencies: {}

@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 2392749649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e3393b08e47526521b1caa39bf5cc15a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4df8c69f2c8a6ad9e3cbf82bb83e4dc3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Avatar/Textures/Avatar@grownMale.png
+- Assets/Resources/Avatar/Textures/Avatar@grownFemale.png
+- Assets/Resources/Avatar/Textures/Avatar@childMale.png
+- Assets/Resources/Avatar/Textures/Avatar@childFemale.png
+Dependencies: []
